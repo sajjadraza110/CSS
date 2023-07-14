@@ -1,0 +1,57 @@
+* {
+    margin: 0px;
+}
+
+.banner {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(books.jpg);
+    background-size: cover;
+    background-position: center; 
+}
+        
+        #home {
+            background-color: rgb(121, 26, 78);
+            text-align: Center;
+            color:white;
+        }
+        #name {
+            text-align: center;
+            color: #ffffff;
+        }
+        
+        .box {
+            display: flex;
+            text-align: Center;
+            justify-content: space-evenly;
+            justify-content: center;
+            
+
+        }
+        a.box {
+            text-decoration:underline;
+        }
+
+        
+        .box1 {
+            width: 97.5px;
+            height: 65px;
+            border: 1px solid #000;
+            display: flex;
+            background-color: rgb(255, 255, 255);
+            color: #750f0f;
+            text-decoration:underline;
+            
+            
+        }
+        
+        .box2 {
+            width: 97.5px;
+            height: 65px;
+            border: 1px solid #000;
+            display: flex;
+            justify-content: center;
+            background-color: #750f0f;
+            color:#ffffff
+                  
+        }

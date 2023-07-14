@@ -1,0 +1,34 @@
+* {
+    margin: 0px;
+}
+
+h1 {
+    text-align: center;
+    background-color: brown;
+    color: aliceblue;
+}
+
+.banner {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(food1.webp);
+    background-size: cover;
+    background-position: center; 
+}
+
+.img {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    
+    
+}
+
+table {
+    background-color: aliceblue;
+    border: 1px solid black;
+    display: flex;
+    text-align: Center;
+    justify-content: space-evenly;
+    justify-content: center;
+}
